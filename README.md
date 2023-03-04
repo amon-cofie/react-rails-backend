@@ -37,7 +37,7 @@
 <details>
   <summary>Client</summary>
   <ul>
-    <li>REACT</li>
+    <li><a href="https://github.com/amon-cofie/react-rails-frontend">React Rails Frontend</a></li>
   </ul>
 </details>
 
@@ -113,7 +113,7 @@ Install this project with:
 To run the project, execute the following command:
 
 ```sh
-  rails server
+  rails server -p 8000
 ```
 
 ### Run tests
